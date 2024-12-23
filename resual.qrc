@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>amduong.png</file>
+    <file>exit.png</file>
+    <file>feedback.png</file>
+    <file>gridpng.png</file>
+    <file>laptop.png</file>
+    <file>lich.png</file>
+    <file>lich2.png</file>
+    <file>logo.jpg</file>
+    <file>menu.png</file>
+    <file>mu.png</file>
+    <file>phanconggiangday.png</file>
+    <file>sach.png</file>
+    <file>timkiem.png</file>
+    <file>user.png</file>
+    <file>img/exit.png</file>
+    <file>img/amduong.png</file>
+    <file>img/feedback.png</file>
+    <file>img/gridpng.png</file>
+    <file>img/laptop.png</file>
+    <file>img/lich.png</file>
+    <file>img/lich2.png</file>
+    <file>img/logo.jpg</file>
+    <file>img/mu.png</file>
+    <file>img/phanconggiangday.png</file>
+    <file>img/sach.png</file>
+    <file>img/user.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

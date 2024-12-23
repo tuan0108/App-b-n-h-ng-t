@@ -1,0 +1,86 @@
+/* Style for mainwindow */
+#MainWindow {
+    background-color: #2f3542; /* Màu nền của main window trong chủ đề dark */
+}
+
+/* Style for button to change menu style */
+#change_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    color: #fff; /* Màu chữ của button */
+}
+
+/* Style for header widget */
+#widget {
+    background-color: #57606f; /* Màu nền của header widget */
+}
+
+/* Style for menu with icon only */
+#icon_only_widget {
+    background-color: #3d4852; /* Màu nền của menu chứa icon */
+    width: 50px;
+}
+
+#icon_only_widget QPushButton, QLabel {
+    height: 50px;
+    border: none;
+    color: #ccd1d9; /* Màu chữ của các QPushButton và QLabel */
+}
+
+#icon_only_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+/* Style for logo image */
+#logo_label_1, #logo_label_2, #logo_label_3 {
+    padding: 5px;
+    color: #fff; /* Màu chữ của logo */
+}
+
+/* Style for menu with icon and text */
+#full_menu_widget {
+    background-color: #3d4852; /* Màu nền của menu đầy đủ */
+}
+
+#full_menu_widget QPushButton {
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #ccd1d9; /* Màu chữ của QPushButton */
+}
+
+#full_menu_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#full_menu_widget QPushButton:checked {
+    color: #fff; /* Màu chữ của QPushButton khi checked */
+}
+
+/* Style for search button */
+#search_btn {
+    border: none;
+    color: #ccd1d9; /* Màu chữ của search button */
+}
+
+/* Style for search input */
+#search_input {
+    border: none;
+    padding: 5px 10px;
+    background-color: #4b5963; /* Màu nền của search input */
+    color: #ccd1d9; /* Màu chữ của search input */
+}
+
+#search_input:focus {
+    background-color: #70b9fe; /* Màu nền khi search input được focus */
+}
+
+/* Style for user information button */
+#user_btn {
+    border: none;
+    color: #ccd1d9; /* Màu chữ của user information button */
+}
